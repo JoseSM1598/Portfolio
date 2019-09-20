@@ -17,23 +17,40 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Software Engineer Internship at IBM <span>Summer 2019</span></h2>
+                        <p> Working under Carl-Johan Nakamura in the Cognitive Enterprise Data Platform division of IBM. I worked on various tasks while interning here, as well as a large DevOps project that spanned multiple weeks.
+                          - Developed a back-end architecture to provide Machine Learning Models as a service to clients. The architecture made use of the Bazel, Docker, and Kubernetes software. Development of the architecture took place primarily on a Linux Virtual Machine via the aid of Vagrant.
+                          - Created queries to update and maintain IBM's databases</p>
                       </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-4">
+                      <div className="timeline-icon color-2">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Engineering & Analytics Director at Duke Undergraduate Machine Learning<span> 2018-Present</span></h2>
+                        <p>I work with the exec board to device yearly Datathon, a data oriented competition in a similar vein to Hackathons.
+                          We also Organize yearly Machine Learning Day, a day to get the duke student body acquainted with machine learning opportunities on campus, as well as provide them with networking opportunities with companies such as Accenture, Google, and IQVIA.
+                          On top of that, I am the primary maintainer of our organizations website, which can be found <a href = "https://dukeml.org/" target = "blank"> here</a></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Statistics Teacher Assistant<span> 2017-Present</span></h2>
+                        <p>I have TA'd for the following courses: Introductory Statistics (STA 101), Regression Analysis (STA 210),
+                        Data Science (STA 199), and Mathematical Statistics (STA 611).</p>
+                        <p> My roles include instructing lab sections, grading homework, and monitoring exams.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +60,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Undergraduate at Duke University<span> 2016-2020</span></h2>
+                        <p>I am an undergraduate at Duke University studying Computer Science and Statistics.</p>
                       </div>
                     </div>
                   </article>
