@@ -32,7 +32,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.linkedin.com/in/jos%C3%A9-san-martin-454471144/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon = {['fab', 'linkedin']} size = "2x"/></a></li>
                 <li><a href="https://github.com/JoseSM1598" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'github']} size = "2x"></FontAwesomeIcon></a></li>
-                <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'medium']} size="2x"/></a></li>
+                <li><a href="https://medium.com/@josesm919" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={['fab', 'medium']} size="2x"/></a></li>
                 <li><a href="https://www.facebook.com/jose.sanmartin.902" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon = {['fab', 'facebook']} size = "2x"/></a></li>
               </ul>
             </nav>
